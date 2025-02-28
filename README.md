@@ -1,24 +1,24 @@
 # Intchecker - File Upload & Integrity Checker
 
 ## 📌 Overview
-**Intchecker** is a simple Bash script that allows users to upload a file and verify its integrity using **SHA1** and **MD5** checksums. It calculates hash values for a file and compares them against a reference hash to ensure file integrity.
+**Intchecker** is a simple Bash script that allows users to upload a file and verify its integrity using **SHA1** and **MD5** checksums. It calculates hash values for a file and compares them against a reference hash to ensure file integrity. And this is more user friendly one.
 
 ## 📥 Installation
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Intchecker.git
+git clone https://github.com/monst3r100/Intchecker.git
 cd Intchecker
 ```
 
 ### Give execution permissions:
 ```bash
-chmod +x file_upload_integrity.sh
+chmod +x intchecker.sh
 ```
 
 ## 🚀 Usage
 ### Run the script:
 ```bash
-./file_upload_integrity.sh
+./intchecker.sh
 ```
 
 ### Steps:
